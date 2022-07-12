@@ -1,48 +1,58 @@
 \begin{thebibliography}{10}
 
-\bibitem{AlloprofAideAux}
-Alloprof aide aux devoirs.
+\bibitem{QuEstceQuea}
+Qu’est-ce que l’{{Intelligence Artificielle}} ({{IA}}) ? - {{Actualité
+  Informatique}}.
 
-\bibitem{CybersecuriteDefinitionCybersecurite}
-Cybersécurité : {{Définition}} de la cybersécurité - {{Sage Advice
-  France}}.
+\bibitem{RegressionAlgorithmsRegression2021}
+Regression {{Algorithms}} | 5 {{Regression Algorithms}} you should know.
 
-\bibitem{IndustrieWikipedia}
-Industrie — {{Wikipédia}}.
+\bibitem{WillMachinesEliminate}
+Will {{Machines Eliminate Us}}? | {{MIT Technology Review}}.
 
-\bibitem{CapteurIntelligent2020}
-Le capteur intelligent.
+\bibitem{book}
+Charu Aggarwal.
+\newblock {\em Neural Networks and Deep Learning: {{A}} Textbook}.
 
-\bibitem{IndustrieVaInduire2018}
-L’industrie 5.0 va induire un nouveau modèle de coopération entre l’homme
-  et la machine.
+\bibitem{aggarwalNeuralNetworksDeep2018}
+Charu~C. Aggarwal.
+\newblock {\em Neural {{Networks}} and {{Deep Learning}}: {{A Textbook}}}.
+\newblock {Springer International Publishing}.
 
-\bibitem{RevolutionsIndustriellesIndustrie}
-Révolutions industrielles - de l'industrie 1.0 à l'industrie 4.0.
+\bibitem{klagesPatchBasedGenerative2019}
+Peter Klages, Ilyes Benslimane, Sadegh Alam, Jue Jiang, Margie Hunt, Joseph
+  Deasy, Harini Veeraraghavan, and Neelam Tyagi.
+\newblock Patch‐{{Based Generative Adversarial Neural Network Models}} for
+  {{Head}} and {{Neck MR}}‐{{Only Planning}}.
+\newblock 47.
 
-\bibitem{chengIndustryIntelligentManufacturing2021}
-Fan-Tien Cheng.
-\newblock {\em Industry 4.1: {{Intelligent Manufacturing}} with {{Zero
-  Defects}}}.
-\newblock {John Wiley \& Sons}.
+\bibitem{richArtificialIntelligenceHumanities1985}
+Elaine Rich.
+\newblock Artificial {{Intelligence}} and the {{Humanities}}.
+\newblock 19(2):117--122.
 
-\bibitem{genestPrerequisitesImplementationIndustry2020}
-Marie Genest and Sébastien Gamache.
-\newblock Prerequisites for the {{Implementation}} of {{Industry}} 4.0 in
-  {{Manufacturing SMEs}}.
-\newblock 51:1215--1220.
+\bibitem{samuelStudiesMachineLearning1988}
+Arthur~L. Samuel.
+\newblock Some {{Studies}} in {{Machine Learning Using}} the {{Game}} of
+  {{Checkers}}. {{II}}—{{Recent Progress}}.
+\newblock In David N.~L. Levy, editor, {\em Computer {{Games I}}}, pages
+  366--400. {Springer}.
 
-\bibitem{michniewiczCyberphysicalRoboticsAutomated2014}
-Joachim Michniewicz and Gunther Reinhart.
-\newblock Cyber-physical {{Robotics}} – {{Automated Analysis}},
-  {{Programming}} and {{Configuration}} of {{Robot Cells}} based on
-  {{Cyber-physical-systems}}.
-\newblock 15:566--575.
+\bibitem{simmonsArtificialIntelligencedefinitionPractice1988}
+A.B. Simmons and S.G. Chappell.
+\newblock Artificial intelligence-definition and practice.
+\newblock 13(2):14--42.
 
-\bibitem{schumacherMaturityModelAssessing2016}
-Andreas Schumacher, Selim Erol, and Wilfried Sihn.
-\newblock A {{Maturity Model}} for {{Assessing Industry}} 4.0 {{Readiness}} and
-  {{Maturity}} of {{Manufacturing Enterprises}}.
-\newblock 52:161--166.
+\bibitem{strachanWorldwideVariationsPrevalence1997}
+David Strachan, Bonnie Sibbald, Stephan Weiland, Nadia Ait-Khaled, Gabriel
+  Anabwani, H.~Ross Anderson, M.~Innes Asher, Richard Beasley, Bengt Bjorksten,
+  Michael Burr, Tadd Clayton, Julian Crane, Philippa Ellwood, Ulrich Keil,
+  Christopher Lai, Javier Mallol, Fernando Martinez, Edwin Mitchell, Stephen
+  Montefort, Neil Pearce, Colin Robertson, Jayant Shah, Alistair Stewart, Erika
+  von Mutius, and Hywel Williams.
+\newblock Worldwide variations in prevalence of symptoms of allergic
+  rhinoconjunctivitis in children: The {{International Study}} of {{Asthma}}
+  and {{Allergies}} in {{Childhood}} ({{ISAAC}}).
+\newblock 8(4):161--168.
 
 \end{thebibliography}

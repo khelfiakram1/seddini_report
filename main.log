@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.22)  12 JUL 2022 12:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.22)  12 JUL 2022 15:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -486,378 +486,119 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout4 = `main.ist'.
 
 
-{/Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}] (main.toc [2
-
-])
+{/Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}] (main.toc)
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- (Parts/introductiongle.tex
+ [2
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
+] [3
 
-[3] [4
-
-])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[5] [6
-
-] (Parts/Chapter1.1.tex
+] (Parts/Chapter1.2.tex
 Chapitre 1.
-[7
+<assets/PartOne/Chaptertwo/relationentreintelligenceartificielleetmachinelearningetdeeplearning.png, id=15, 973.6375pt x 493.845pt>
+File: assets/PartOne/Chaptertwo/relationentreintelligenceartificielleetmachinelearningetdeeplearning.png Graphic file (type png)
+<use assets/PartOne/Chaptertwo/relationentreintelligenceartificielleetmachinelearningetdeeplearning.png>
+Package pdftex.def Info: assets/PartOne/Chaptertwo/relationentreintelligenceartificielleetmachinelearningetdeeplearning.png  used on input line 12.
+(pdftex.def)             Requested size: 284.52756pt x 144.31155pt.
+[4
 
-]
-<assets/PartOne/Chapterone/Evolutiondel'industrie.png, id=30, 852.18375pt x 439.6425pt>
-File: assets/PartOne/Chapterone/Evolutiondel'industrie.png Graphic file (type png)
-<use assets/PartOne/Chapterone/Evolutiondel'industrie.png>
-Package pdftex.def Info: assets/PartOne/Chapterone/Evolutiondel'industrie.png  used on input line 18.
-(pdftex.def)             Requested size: 369.88582pt x 190.82701pt.
+ <./assets/PartOne/Chaptertwo/relationentreintelligenceartificielleetmachinelearningetdeeplearning.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
+<assets/PartOne/Chaptertwo/apprentissagesupervis^^c3^^a9.png, id=27, 1284.8pt x 722.7pt>
+File: assets/PartOne/Chaptertwo/apprentissagesupervis^^c3^^a9.png Graphic file (type png)
+<use assets/PartOne/Chaptertwo/apprentissagesupervis^^c3^^a9.png>
+Package pdftex.def Info: assets/PartOne/Chaptertwo/apprentissagesupervis^^c3^^a9.png  used on input line 80.
+(pdftex.def)             Requested size: 298.75394pt x 168.04807pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8 <./assets/PartOne/Chapterone/Evolutiondel'industrie.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[9]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[10]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[11]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[12]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[13]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[14]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[15]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[16]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[17]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[18])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[19] [20
-
-] (Parts/Chapter2.1.tex
-Chapitre 2.
-[21
-
-]
-<assets/PartTwo/Chapterone/DefautNouilles.png, id=79, 518.93875pt x 191.71625pt>
-File: assets/PartTwo/Chapterone/DefautNouilles.png Graphic file (type png)
-<use assets/PartTwo/Chapterone/DefautNouilles.png>
-Package pdftex.def Info: assets/PartTwo/Chapterone/DefautNouilles.png  used on input line 26.
-(pdftex.def)             Requested size: 369.88582pt x 136.65775pt.
+[7 <./assets/PartOne/Chaptertwo/apprentissagesupervisé.png (PNG copy)>]
+<assets/PartOne/Chaptertwo/r^^c3^^a9gressinlin^^c3^^a9aire.png, id=33, 339.06676pt x 249.3315pt>
+File: assets/PartOne/Chaptertwo/r^^c3^^a9gressinlin^^c3^^a9aire.png Graphic file (type png)
+<use assets/PartOne/Chaptertwo/r^^c3^^a9gressinlin^^c3^^a9aire.png>
+Package pdftex.def Info: assets/PartOne/Chaptertwo/r^^c3^^a9gressinlin^^c3^^a9aire.png  used on input line 103.
+(pdftex.def)             Requested size: 341.43306pt x 251.07332pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[22 <./assets/PartTwo/Chapterone/DefautNouilles.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[23]
-<assets/PartTwo/Chapterone/ObjectifCible.png, id=90, 581.17125pt x 356.33125pt>
-File: assets/PartTwo/Chapterone/ObjectifCible.png Graphic file (type png)
-<use assets/PartTwo/Chapterone/ObjectifCible.png>
-Package pdftex.def Info: assets/PartTwo/Chapterone/ObjectifCible.png  used on input line 76.
-(pdftex.def)             Requested size: 284.52756pt x 174.45158pt.
+[8 <./assets/PartOne/Chaptertwo/régressinlinéaire.png>]
+<assets/PartOne/Chaptertwo/lafonctionlogistique.png, id=39, 325.81725pt x 254.1495pt>
+File: assets/PartOne/Chaptertwo/lafonctionlogistique.png Graphic file (type png)
+<use assets/PartOne/Chaptertwo/lafonctionlogistique.png>
+Package pdftex.def Info: assets/PartOne/Chaptertwo/lafonctionlogistique.png  used on input line 115.
+(pdftex.def)             Requested size: 284.52756pt x 221.94205pt.
+<assets/PartOne/Chaptertwo/supportvectormachine.png, id=40, 602.25pt x 401.5pt>
+File: assets/PartOne/Chaptertwo/supportvectormachine.png Graphic file (type png)
+<use assets/PartOne/Chaptertwo/supportvectormachine.png>
+Package pdftex.def Info: assets/PartOne/Chaptertwo/supportvectormachine.png  used on input line 127.
+(pdftex.def)             Requested size: 284.52756pt x 189.69136pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[24 <./assets/PartTwo/Chapterone/ObjectifCible.png>]
+[9 <./assets/PartOne/Chaptertwo/lafonctionlogistique.png> <./assets/PartOne/Chaptertwo/supportvectormachine.png>]
+<assets/PartOne/Chaptertwo/apprentissagenonsupervis^^c3^^a9.png, id=46, 1284.8pt x 722.7pt>
+File: assets/PartOne/Chaptertwo/apprentissagenonsupervis^^c3^^a9.png Graphic file (type png)
+<use assets/PartOne/Chaptertwo/apprentissagenonsupervis^^c3^^a9.png>
+Package pdftex.def Info: assets/PartOne/Chaptertwo/apprentissagenonsupervis^^c3^^a9.png  used on input line 139.
+(pdftex.def)             Requested size: 284.52756pt x 160.0421pt.
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[25]
+[10 <./assets/PartOne/Chaptertwo/apprentissagenonsupervisé.png (PNG copy)>] [11
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[26]) (Parts/Chapter2.2.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[27]
-Chapitre 3.
-[28
-
-]
-<assets/PartTwo/Chapterone/ShemaExplicatif.png, id=108, 1237.62375pt x 791.95876pt>
-File: assets/PartTwo/Chapterone/ShemaExplicatif.png Graphic file (type png)
-<use assets/PartTwo/Chapterone/ShemaExplicatif.png>
-Package pdftex.def Info: assets/PartTwo/Chapterone/ShemaExplicatif.png  used on input line 18.
-(pdftex.def)             Requested size: 284.52756pt x 182.06209pt.
-<assets/PartTwo/ChapterTwo/GuiInterface.png, id=109, 1236.62pt x 776.9025pt>
-File: assets/PartTwo/ChapterTwo/GuiInterface.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/GuiInterface.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/GuiInterface.png  used on input line 27.
-(pdftex.def)             Requested size: 341.43306pt x 214.49644pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[29 <./assets/PartTwo/Chapterone/ShemaExplicatif.png> <./assets/PartTwo/ChapterTwo/GuiInterface.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[30]
-<assets/PartTwo/ChapterTwo/GoodDefectNoodles.png, id=118, 1088.065pt x 695.59875pt>
-File: assets/PartTwo/ChapterTwo/GoodDefectNoodles.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/GoodDefectNoodles.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/GoodDefectNoodles.png  used on input line 51.
-(pdftex.def)             Requested size: 398.33858pt x 254.66095pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[31 <./assets/PartTwo/ChapterTwo/GoodDefectNoodles.png>]
-<assets/PartTwo/ChapterTwo/ComparaisonModeles.png, id=124, 616.3025pt x 505.89pt>
-File: assets/PartTwo/ChapterTwo/ComparaisonModeles.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/ComparaisonModeles.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/ComparaisonModeles.png  used on input line 64.
-(pdftex.def)             Requested size: 398.33858pt x 326.97969pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[32 <./assets/PartTwo/ChapterTwo/ComparaisonModeles.png>]
-<assets/PartTwo/ChapterTwo/MobileNetV1Result.png, id=129, 570.13pt x 280.04625pt>
-File: assets/PartTwo/ChapterTwo/MobileNetV1Result.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/MobileNetV1Result.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/MobileNetV1Result.png  used on input line 97.
-(pdftex.def)             Requested size: 369.88582pt x 181.68604pt.
-<assets/PartTwo/ChapterTwo/MOBILENETV1TFTV.png, id=130, 310.15875pt x 301.125pt>
-File: assets/PartTwo/ChapterTwo/MOBILENETV1TFTV.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/MOBILENETV1TFTV.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/MOBILENETV1TFTV.png  used on input line 106.
-(pdftex.def)             Requested size: 142.26378pt x 138.11943pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[33 <./assets/PartTwo/ChapterTwo/MobileNetV1Result.png> <./assets/PartTwo/ChapterTwo/MOBILENETV1TFTV.png>]
-<assets/PartTwo/ChapterTwo/MobileNetV2Result.png, id=136, 595.22375pt x 291.0875pt>
-File: assets/PartTwo/ChapterTwo/MobileNetV2Result.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/MobileNetV2Result.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/MobileNetV2Result.png  used on input line 126.
-(pdftex.def)             Requested size: 369.88582pt x 180.88544pt.
-<assets/PartTwo/ChapterTwo/MobileNetV2TFTN.png, id=137, 353.32pt x 297.11pt>
-File: assets/PartTwo/ChapterTwo/MobileNetV2TFTN.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/MobileNetV2TFTN.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/MobileNetV2TFTN.png  used on input line 135.
-(pdftex.def)             Requested size: 170.71652pt x 143.55869pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[34 <./assets/PartTwo/ChapterTwo/MobileNetV2Result.png> <./assets/PartTwo/ChapterTwo/MobileNetV2TFTN.png>]
-<assets/PartTwo/ChapterTwo/ResNet50Results.png, id=143, 620.3175pt x 308.15125pt>
-File: assets/PartTwo/ChapterTwo/ResNet50Results.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/ResNet50Results.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/ResNet50Results.png  used on input line 156.
-(pdftex.def)             Requested size: 369.88582pt x 183.74487pt.
-<assets/PartTwo/ChapterTwo/ResNet50TFTN.png, id=144, 327.2225pt x 319.1925pt>
-File: assets/PartTwo/ChapterTwo/ResNet50TFTN.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/ResNet50TFTN.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/ResNet50TFTN.png  used on input line 164.
-(pdftex.def)             Requested size: 142.26378pt x 138.76968pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[35 <./assets/PartTwo/ChapterTwo/ResNet50Results.png> <./assets/PartTwo/ChapterTwo/ResNet50TFTN.png>]
-<assets/PartTwo/ChapterTwo/ResNetV2RESULT.png, id=150, 616.3025pt x 311.1625pt>
-File: assets/PartTwo/ChapterTwo/ResNetV2RESULT.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/ResNetV2RESULT.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/ResNetV2RESULT.png  used on input line 184.
-(pdftex.def)             Requested size: 369.88582pt x 186.75592pt.
-<assets/PartTwo/ChapterTwo/ResnetV2TFTD.png, id=151, 326.21875pt x 312.16624pt>
-File: assets/PartTwo/ChapterTwo/ResnetV2TFTD.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/ResnetV2TFTD.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/ResnetV2TFTD.png  used on input line 192.
-(pdftex.def)             Requested size: 142.26378pt x 136.13893pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[36 <./assets/PartTwo/ChapterTwo/ResNetV2RESULT.png> <./assets/PartTwo/ChapterTwo/ResnetV2TFTD.png>]
-<assets/PartTwo/ChapterTwo/TableauAnalyse.png, id=157, 502.87875pt x 241.90375pt>
-File: assets/PartTwo/ChapterTwo/TableauAnalyse.png Graphic file (type png)
-<use assets/PartTwo/ChapterTwo/TableauAnalyse.png>
-Package pdftex.def Info: assets/PartTwo/ChapterTwo/TableauAnalyse.png  used on input line 203.
-(pdftex.def)             Requested size: 369.88582pt x 177.92815pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[37 <./assets/PartTwo/ChapterTwo/TableauAnalyse.png>])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.61858pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.61858pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
-
-[38] (Parts/conclusion.tex) (main.bbl) (Parts/resume.tex)
+] (Parts/conclusion.tex) (main.bbl) (Parts/resume.tex)
 No file main.gls.
-[39
+[12
 
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 14227 strings out of 478583
- 264088 string characters out of 2841500
- 593911 words of memory out of 3000000
- 32143 multiletter control sequences out of 15000+600000
- 482473 words of font info for 58 fonts, out of 8000000 for 9000
+ 14130 strings out of 478583
+ 260915 string characters out of 2841500
+ 591793 words of memory out of 3000000
+ 32068 multiletter control sequences out of 15000+600000
+ 481774 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,11n,131p,1690b,440s stack positions out of 10000i,1000n,20000p,200000b,80000s
- </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1200.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1200.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (39 pages, 10225150 bytes).
+ 91i,11n,131p,1140b,426s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1200.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </Users/mac/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk>
+Output written on main.pdf (12 pages, 435125 bytes).
 PDF statistics:
- 579 PDF objects out of 1000 (max. 8388607)
+ 342 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
