@@ -1,0 +1,28 @@
+\glsdefs@newdocentry{MSA}%
+{%
+name={MSA},%
+sort={MSA},%
+type={main},%
+first={MSA},%
+firstplural={MSAs},%
+text={MSA},%
+plural={MSAs},%
+description={Modern Standard Arabic. },%
+descriptionplural={Modern Standard Arabic. },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+

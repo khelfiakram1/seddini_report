@@ -1,0 +1,57 @@
+\babel@toc {french}{}\relax 
+\contentsline {part}{I\hspace {1em}Cadre contextuel et conceptuel}{6}{}%
+\contentsline {chapter}{\numberline {1}Contr^^c3^^b4le de la qualit^^c3^^a9 dans l^^e2^^80^^99industrie 4.0}{7}{}%
+\contentsline {section}{\numberline {1.1}Introduction}{7}{}%
+\contentsline {section}{\numberline {1.2}R^^c3^^a9volutions industrielles et ^^c3^^a9volution de l'industrie }{7}{}%
+\contentsline {subsection}{\numberline {1.2.1}D^^c3^^a9finition de l^^e2^^80^^99industrie}{7}{}%
+\contentsline {subsection}{\numberline {1.2.2}Les quatre r^^c3^^a9volutions industrielles}{8}{}%
+\contentsline {subsection}{\numberline {1.2.3}D^^c3^^a9finition de l^^e2^^80^^99industrie 4.0}{9}{}%
+\contentsline {subsection}{\numberline {1.2.4}Technologies 4.0}{10}{}%
+\contentsline {subsubsection}{\numberline {1.2.4.1}Technologies relatives aux donn^^c3^^a9es}{10}{}%
+\contentsline {paragraph}{La big data : }{10}{}%
+\contentsline {paragraph}{La cyber s^^c3^^a9curit^^c3^^a9 :}{10}{}%
+\contentsline {paragraph}{Les capteurs intelligents}{11}{}%
+\contentsline {subsubsection}{\numberline {1.2.4.2}Technologies relatives ^^c3^^a0 la communication}{11}{}%
+\contentsline {paragraph}{Internet des objets (loT) :}{11}{}%
+\contentsline {paragraph}{Communication inter-machine (M2M)}{12}{}%
+\contentsline {paragraph}{Syst^^c3^^a8mes cyber physique}{12}{}%
+\contentsline {paragraph}{Les robots collaboratifs :}{12}{}%
+\contentsline {subsubsection}{\numberline {1.2.4.3}Technologies relatives au calcul et traitement de donn^^c3^^a9es}{13}{}%
+\contentsline {paragraph}{L^^e2^^80^^99intelligence artificielle :}{13}{}%
+\contentsline {paragraph}{Cloud computing :}{13}{}%
+\contentsline {paragraph}{Puces d'acc^^c3^^a9l^^c3^^a9ration des r^^c3^^a9seaux de neurones (NPU) :}{14}{}%
+\contentsline {paragraph}{La r^^c3^^a9alit^^c3^^a9 augment^^c3^^a9e (AR) :}{14}{}%
+\contentsline {paragraph}{Blockchain :}{14}{}%
+\contentsline {subsection}{\numberline {1.2.5}Pr^^c3^^a9requis de l'industrie 4.0}{15}{}%
+\contentsline {subsection}{\numberline {1.2.6}Contraintes ^^c3^^a0 l'application de l'industrie 4.0 }{18}{}%
+\contentsline {section}{\numberline {1.3}La qualit^^c3^^a9 4.0}{19}{}%
+\contentsline {subsection}{\numberline {1.3.1}D^^c3^^a9finition de la qualit^^c3^^a9}{19}{}%
+\contentsline {part}{II\hspace {1em}Part two}{20}{}%
+\contentsline {chapter}{\numberline {2}Cadre M^^c3^^a9thodologique}{21}{}%
+\contentsline {section}{\numberline {2.1}Introduction}{21}{}%
+\contentsline {section}{\numberline {2.2}Choix du th^^c3^^a8me et probl^^c3^^a9matique}{21}{}%
+\contentsline {subsection}{\numberline {2.2.1}Probl^^c3^^a9matique}{22}{}%
+\contentsline {subsection}{\numberline {2.2.2}Hypoth^^c3^^a8ses}{22}{}%
+\contentsline {subsection}{\numberline {2.2.3}Objectif}{23}{}%
+\contentsline {section}{\numberline {2.3}M^^c3^^a9thodologie du travail}{23}{}%
+\contentsline {subsection}{\numberline {2.3.1}Approche}{23}{}%
+\contentsline {subsection}{\numberline {2.3.2}D^^c3^^a9marche}{24}{}%
+\contentsline {subsection}{\numberline {2.3.3}Outils}{26}{}%
+\contentsline {subsection}{\numberline {2.3.4}Propri^^c3^^a9t^^c3^^a9 intellectuelle }{26}{}%
+\contentsline {section}{\numberline {2.4}Conclusion}{27}{}%
+\contentsline {chapter}{\numberline {3}Etude Comparative et Choix du Mod^^c3^^a8le}{28}{}%
+\contentsline {section}{\numberline {3.1}Introduction}{28}{}%
+\contentsline {section}{\numberline {3.2}Architecture de la solution}{28}{}%
+\contentsline {section}{\numberline {3.3}Configuration Hardware et Software}{30}{}%
+\contentsline {subsection}{\numberline {3.3.1}Choix de la cam^^c3^^a9ra : }{30}{}%
+\contentsline {subsection}{\numberline {3.3.2}Choix d'^^c3^^a9clairage : }{30}{}%
+\contentsline {subsection}{\numberline {3.3.3}Choix du TPU : }{30}{}%
+\contentsline {section}{\numberline {3.4}Pr^^c3^^a9paration des donn^^c3^^a9es }{30}{}%
+\contentsline {section}{\numberline {3.5}Impl^^c3^^a9mentation des mod^^c3^^a8les}{31}{}%
+\contentsline {section}{\numberline {3.6}Evaluation des mod^^c3^^a8les}{32}{}%
+\contentsline {subsection}{\numberline {3.6.1}MobileNet V1 }{33}{}%
+\contentsline {subsection}{\numberline {3.6.2}MobileNet V2}{34}{}%
+\contentsline {subsection}{\numberline {3.6.3}ResNet50 V1 }{35}{}%
+\contentsline {subsection}{\numberline {3.6.4}ResNet50 V2 }{36}{}%
+\contentsline {section}{\numberline {3.7}Analyses et discussion des r^^c3^^a9sultats}{37}{}%
+\contentsline {section}{\numberline {3.8}Conclusion}{38}{}%

@@ -1,0 +1,56 @@
+\documentclass[12pt]{report}
+
+\usepackage[french]{babel}
+\usepackage[utf8]{inputenc}%pour le é 
+\usepackage[T1]{fontenc}
+\usepackage{fancyhdr}%pour l'en-tete 
+\usepackage{graphicx}%pour les images
+\usepackage[margin=1in]{geometry}
+\usepackage{cite}%pour bibliographie 
+\usepackage{wrapfig} %pour figure a coté du texte
+\frenchbsetup{StandardLists=true} % à inclure si on utilise \usepackage[french]{babel}
+\usepackage{enumitem}
+\usepackage{amssymb}
+\usepackage[section]{placeins}
+\usepackage{glossaries}
+
+
+\usepackage{subcaption}
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+%		Header		%		
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\rhead{\thepage}
+\lhead{\leftmark}
+
+\usepackage{makeidx}
+\makeindex
+
+%subsubsubsection%
+
+\input{Parts/glossaire.tex}
+\input{Parts/commands.tex}
+
+
+\begin{document}
+\input{Parts/remerciements.tex}
+\input{Parts/resume.tex}
+\listoffigures  % table des figures
+
+
+
+\tableofcontents
+\input{Parts/introductiongle.tex}
+\part{Cadre contextuel et conceptuel}
+\input{Parts/Chapter1.1.tex}
+\part{Part two}
+\input{Parts/Chapter2.1.tex}
+\input{Parts/Chapter2.2.tex}
+\newpage
+\input{Parts/conclusion.tex}
+\bibliography{bib.bib}
+\bibliographystyle{plain}
+\input{Parts/resume.tex}
+\printglossaries
+\end{document}
