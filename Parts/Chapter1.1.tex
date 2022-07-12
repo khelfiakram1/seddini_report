@@ -1,0 +1,207 @@
+\chapter{Contrôle de la qualité dans l’industrie 4.0}
+\section{Introduction}
+Les anomalies au niveau du processus de production ont toujours été un défi pour l’industrie. Toute personne qui effectue une inspection visuelle répétitive peut se fatiguer, s'ennuyer ou être distraite. Comme les processus de production deviennent plus complexes, le risque d'erreurs humaines augmente ce qui peut entraîner des dégradations des produits finis engendrant des reprises coûteuses et fastidieuses pour le producteur. 
+
+Ce qui a poussé les chercheurs à introduire L'industrie 4.0 qui désigne la transformation et la digitalisation continues des pratiques de production industrielles cela pour améliorer la productivité et la qualité de la production en éliminant les erreurs humaines via l'automatisation et l'utilisation des solutions logicielles d'analyse vidéo en obtenons des informations exploitables à partir des données de la chaîne logistique globale. Ces données peuvent non seulement être vérifiées et comparées en temps réel, mais aussi analysées dans le temps pour faciliter la prise de décision, la planification de la production et l'amélioration des processus.  
+
+Ce que nous pouvons résumer dans ce chapitre, nous allons commencer par le concept de l'industrie et de la révolution industrielle. Nous passerons en revue les différentes techniques de l'industrie 4.0 et nous terminerons par le concept de qualité 4.0 qui relie l'industrie 4.0 au contrôle de la qualité. 
+\section{Révolutions industrielles et évolution de l'industrie }
+\subsection{Définition de l’industrie}
+L'industrie est un terme polysémique recouvrant originellement la plupart des travaux humains. Il s'agit à présent de la production de biens grâce à la transformation des matières premières ou des matières ayant déjà subi une ou plusieurs transformations et de l'exploitation des sources d'énergie\cite{IndustrieWikipedia}.
+
+\newpage
+\subsection{Les quatre révolutions industrielles}
+L'un des événements historiques les plus significatifs de la civilisation contemporaine a été la révolution industrielle. En fait, cette période cruciale de l'histoire a entraîné d'importants changements dans la civilisation, notamment sur le plan technologique, social et économique. Le concept d'emploi, les formes de production, les moyens de transport et la structure de la société et de l'économie ont tous subi des changements importants depuis la révolution industrielle\cite{AlloprofAideAux}. La figure ci-dessus montre un schéma explique les étapes de la révolution de l’industrie.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=13cm]{assets/PartOne/Chapterone/Evolutiondel'industrie.png}
+    \caption{Evolution de l'industrie}
+    \label{Evolutiondel'industrie}
+    \end{figure}
+
+    Cette révolution a passé par quatre phases depuis milieu du XVIIIe siècle (1750) \cite{RevolutionsIndustriellesIndustrie}.
+\begin{itemize}
+    \item \textbf{Première révolution industrielle}  (industrie 1.0) : C'est la révolution qui s'est produite au XVIIIe siècle, et qui a pour pilier la machine à vapeur. L'objectif était la productivité de la production. 
+ 
+    \item \textbf{Deuxième révolution industrielle} (industrie 2.0) : Cela s'est produit au 19ème siècle jusqu'en 1940 et était basé sur l'électricité. Comme cela s'est produit en même temps que la Première Guerre mondiale, on s'est inquiété du manque de matériel utilisé pour la production. Pour cette raison, la maintenance commence à être une préoccupation, et nous pouvons même dire que c'est ici que la maintenance préventive est née. 
+     
+    \item \textbf{Troisième révolution industrielle} (industrie 3.0) :  C'est la révolution des systèmes informatiques, qui s'est produit dans les années 70. Cette révolution n'a pas eu le souci de la productivité comme les deux autres, et c'est à ce moment-là que le système industriel « Just in Time a été créé, ce qui a pour résultat la réduction du temps et l'optimisation dans le secteur industriel. 
+     
+    \item \textbf{Quatrième révolution industrielle} (industrie 4.0) : fait référence à la transformation de l’industrie et des systèmes de production grâce à l’introduction des nouvelles technologies. Son but est de créer des usines intelligentes, qui puissent s’adapter plus facilement aux nécessités et aux processus de la production. Alors que l'industrie 4.0 reste un concept relativement nouveau, de nombreux experts et scientifiques parlent de l'industrie 4.1, qui vise le zéro défaut\cite{chengIndustryIntelligentManufacturing2021}. 
+     
+    \item \textbf{Cinquième révolution industrielle} (l'industrie 5.0) : cette approche conduira à un nouveau modèle de coopération et d'interaction entre les humains et les machines du contexte de l’ergonomie. Mais ce concept n'est pas vraiment fait l'objet d'un consensus, il reste une simple notion théorique jusqu'à présent.\cite{IndustrieVaInduire2018}
+\end{itemize}
+
+
+En 2012, l'Allemagne a proposé le terme de l'industrie 4.0 pour faire les premiers pas vers la prochaine révolution industrielle. La définition et les technologies de base de l'industrie 4.0 sont présentées ci-dessous.
+
+\subsection{Définition de l’industrie 4.0}
+Il est difficile de trouver une définition du concept « Industrie 4.0» qui fait consensus. La transdisciplinarité du concept, traduite par le vif intérêt accordé audit concept, conduit à l'émergence d'une diversité terminologique telle que 
+\begin{itemize}
+    \item industrie future
+    \item industrie numérique
+    \item industrie intelligente
+    \item internet industriel
+    \item transformation numérique
+\end{itemize}
+C'est ainsi qu'en 2013, BITCOM, l'association des télécommunications allemandes a trouvé plus de 100 définitions du concept de l'industrie 4.0. Cependant, afin de mieux cerner le sujet et limiter l'impact de la diversité des définitions, il est essentiel de ne citer que les définitions les plus importantes.
+
+Par exemple, pour Schumacher \cite{schumacherMaturityModelAssessing2016} «Industrie 4.0 fait référence aux avancées technologiques récentes dans lesquelles Internet et les technologies associées (par exemple, les systèmes intégrés) servent de pivot pour intégrer des objets physiques, des acteurs humains, des machines intelligentes, des lignes de production et des processus dépassant les limites organisationnelles afin de former une nouvelle chaîne de valeur plus agile, intelligente et connectée».
+
+Pour notre cas de recherche, nous prendrons la définition donnée par Pierre Cléroux, vice-président, Recherche et économiste en chef à la BDC, qui a défini ce terme comme suit : "à la base, l'industrie 4.0 consiste à surveiller et à contrôler vos machines et équipements en temps réel en installant des capteurs à chaque étape du processus de production".
+
+\newpage
+\subsection{Technologies 4.0}
+Cette section vise à identifier les principaux groupes de technologies introduits par l'industrie 4.0. Nous avons utilisé une liste des différentes catégories qui désigne les principales technologies qui influencent ce développement industriel. Ces catégories sont :
+\begin{itemize}
+    \item Technologies relatives aux données.
+    \item Technologies relatives à la communication.
+    \item Technologies relatives au calcul et au traitement de données.
+    
+\end{itemize}
+Ces catégories sont détaillées ci-dessous :
+
+\subsubsection{Technologies relatives aux données}
+\paragraph{La big data : }
+
+Les données se considèrent comme étant de la matière première du 21ème siècle. En fait, la quantité de données dont disposent les entreprises semble presque doubler chaque année puisque, en 2020, plus de 50 milliards d'appareils seront connectés à l'échelle mondiale. La mégadonnées ou Big Data est non seulement une technologie, mais également un puissant outil pouvant fournir des informations, guider, inspirer et définir en profondeur la stratégie organisationnelle des campagnes.
+
+Le traitement des données est conçu pour analyser, nettoyer, transformer et modéliser de variable source et format de données, permettant alors de créer des connaissances, du sens et des solutions pouvant servir pour prendre des décisions. Elle permet aussi de conférer aux données une dimension économique en faisant recours aux méthodes analytiques comme la corrélation, le regroupement, la régression ou l'analyse bayésienne qui est désormais importante.
+
+Ainsi, les techniques associées aux mégadonnées aident alors à maximiser la qualité de la production, à augmenter l'efficacité, à optimiser la qualité des équipements et encore, à atteindre une productivité sans précédent.
+
+\paragraph{La cyber sécurité :}
+
+La cybersécurité assure une gestion de la data dans des conditions optimales et sécurisées. Elle permet la protection des systèmes d’informations et des données qui circulent contre ceux que l’on appelle les cybercriminels. Les compétences en informatique acquises par les personnes malveillantes sont des risques à ne pas prendre à la légère. De l’installation d’un antivirus jusqu’à la configuration de serveurs, ou encore le gardiennage des datas centers et des bureaux, la sécurité informatique impacte tous les métiers\cite{CybersecuriteDefinitionCybersecurite}.
+
+Outre les cyberattaques, la cybersécurité permet la mise en place de processus auprès des collaborateurs pour l’instauration de bonnes pratiques. En effet, les erreurs humaines sont des sources réelles de fuites de données. La sensibilisation des équipes aux problématiques de phishing ou d’usurpation d’identité est une composante importante d’une politique de sécurité informatique.
+
+Les entreprises ont besoin de processus de cybersécurité fiable et performant afin de travailler dans de bonnes conditions. La protection des données sensibles est essentielle pour garantir l’intégrité de chaque collaborateur, mais aussi des clients et des partenaires.
+
+\newpage
+\paragraph{Les capteurs intelligents}
+
+Un capteur intelligent est un dispositif qui prend des données de l’environnement physique et utilise des ressources de calcul intégrées pour exécuter des fonctions prédéfinies lors de la détection d’une entrée spécifique, puis traiter les données avant de les transmettre.
+
+Les capteurs intelligents permettent une collecte plus précise et automatisée des données environnementales avec moins de bruit parmi les informations enregistrées. Ces dispositifs sont utilisés pour les mécanismes de surveillance et de contrôle dans une grande variété d’environnements, notamment les smart grids, la reconnaissance des champs de bataille, l’exploration et un grand nombre d’applications scientifiques.
+
+Le capteur intelligent est également un élément crucial et intégral de l’Internet des objets (IoT), l’environnement de plus en plus répandu dans lequel presque tout ce qui est imaginable peut être doté d’un identifiant unique (UID) et de la capacité de transmettre des données par internet ou un réseau similaire. Les capteurs intelligents sont notamment utilisés comme composants d’un réseau de capteurs et d’actionneurs sans fil (WSAN) dont les nœuds peuvent se compter par milliers, chacun d’entre eux étant connecté à un ou plusieurs autres capteurs et hubs ainsi qu’à des actionneurs individuels.
+
+Les ressources de calcul sont généralement fournies par des microprocesseurs mobiles de faible puissance. Un capteur intelligent se compose au minimum d’un capteur, d’un microprocesseur et d’une technologie de communication quelconque. Les ressources de calcul doivent faire partie intégrante de la conception physique un capteur qui se contente d’envoyer ses données pour un traitement à distance n’est pas considéré comme un capteur intelligent\cite{CapteurIntelligent2020}.
+
+\subsubsection{Technologies relatives à la communication}
+\paragraph{Internet des objets (loT) :}
+Internet est à l'origine un produit d'évolution progressive caractérisé tout d'abord par le Web 2.0 favorisant une communication à double sens et faisant référence à la possible interaction, collaboration et participation pouvant exister dans l'utilisation traditionnelle des réseaux sociaux, des blogs et autres. Ensuite, ledit Web 3.0 « sémantique » qui pour analyser, transformer et partager des informations standardisées, offre aux machines non seulement des informations compréhensibles et en ligne, mais leur permet aussi de naviguer sur les moteurs de recherche sans intervention humaine. Dès lors, ces technologies ont atteint un niveau avancé de développement qui a mené, aujourd'hui, à Internet des Objets. Celui-ci forme un réseau informatique interconnectant les objets, capteurs et des dispositifs autres que les ordinateurs. 
+
+Tout en permettant audits dispositifs d'émettre, échanger et utiliser des données indépendamment de l'intervention humaine. L'internet des objets est ainsi une technologie permettant l'incorporation d'une capacité de communication auto-organisée et autonome aux différentes machines. L'interconnexion des objets physiques et des ressources numériques forme un réseau d'information qui facilite le contrôle de l'état des produits ou des systèmes et décentralise la prise de décision.
+
+\newpage
+\paragraph{Communication inter-machine (M2M)}
+Le développement de la technologie de communication inter machines est dû à l'augmentation du nombre de systèmes et de machines autonomes. La technologie M2M est directement basée sur des protocoles et technologies de communication standard pour créer des réseaux de machines et de systèmes. Cette technologie peut faciliter l'échange direct entre les machines d'une grande flotte. En conséquence, le processus de production dans son ensemble, peut être reconfiguré pour réagir aux dangers rencontrés.
+
+De plus dans les environnements de l'industrie 4.0, la technologie M2M est prête à remodeler divers aspects de fabrication, en particulier l'efficacité opérationnelle, le contrôle qualité, la prise de décision, les relations avec les clients, et les opportunités transactionnelles .Ainsi, l'accès à des actions en temps réel est nécessaire pour établir des organisations plus intelligentes et plus agiles, ce qui permet à la direction de mieux administrer les ressources, protéger les actifs spécifiques de l'entreprise, déployer des applications intelligentes pour élargir la portée et répondre rapidement aux exigences environnementales à évolution rapide. De plus, avec une bonne intelligence, livrée en temps réel et utilisée de manière appropriée, les services peuvent être proposés et adaptés aux clients de la meilleure façon possible.
+
+\paragraph{Systèmes cyber physique}
+À travers le temps, les mécanismes de traitement de l'information ont connu une évolution allant de grands ordinateurs centraux, passant par les ordinateurs personnels pour enfin arriver à des objets de calcul incorporés. La performance de ces mécanismes, manifestée dans l'accessibilité à internet, la capacité de communiquer, stocker et calculer les données, permet de contrôler, surveiller l'ensemble des objets, systèmes et processus. 
+
+Ainsi, la communication et l'interconnexion des systèmes d'informations, réseaux, processus, sous-systèmes, objets internes et externes, clients et fournisseurs, définies ce qu'on appelle un Système Cyber Physique (CSP). Et en effet, le CSP fusionne non seulement les mondes physiques et virtuels, mais aussi dispose les objets d'une capacité de communiquer avec l'environnement, de reconfigurer ou participer à la reconfiguration en temps réel pour répondre aux besoins immédiats. Ce qui fait que les machines, dans l'industrie 4.0, forment une entité cyber-physique qui communique dans d'environnements réels et virtuels. Celle-ci rend le positionnement de la machine au sein de la chaîne de valeur plus flexible de sorte que le processus de production est adapté à la demande instantanée et ne subit plus de temps d'arrêt.
+
+\paragraph{Les robots collaboratifs :} Durant la dernière révolution industrielle, les robots ont occupé une place importante au point de remplacer les travailleurs. Ainsi en 2004 la présence des robots multifonctionnels et polyvalents dans les usines européennes s'est considérablement développée et doublée. Récemment, la robotique a été développée pour devenir un outil indispensable dans tous les secteurs. Les robots industriels ont une grande flexibilité inhérente en raison de la polyvalence des outils, capteurs et autres périphériques.
+
+Cependant, l'effort nécessaire pour programmer et configurer l'ensemble du système de robot, par exemple lors de l'introduction d'un produit nouveau ou modifié, est élevé et limite la flexibilité utilisée \cite{michniewiczCyberphysicalRoboticsAutomated2014}. C'est ainsi que les robots sont utilisés dans les industries pour favoriser la répétition des tâches prédéfinies nécessitant peu d'adaptation et de reconfiguration.
+
+\subsubsection{Technologies relatives au calcul et traitement de données}
+\paragraph{L’intelligence artificielle :}
+Le terme "intelligence artificielle" inventé par John McCarthy est souvent abrégé en "IA" (ou "AI" en anglais, signifiant intelligence artificielle). L'un de ses créateurs, Marvin Lee Minsky, l'a défini comme la construction de programmes informatiques qui exécutent des tâches qui sont actuellement exécutées de manière plus satisfaisante par les humains car elles nécessitent un niveau élevé de processus mentaux tels que : l'apprentissage perceptif, l'organisation de la mémoire et le raisonnement critique.
+
+Nous n'allons pas détailler ce concept car nous allons consacrer un chapitre entier qui parle de l'intelligence artificielle et de ces techniques de calculs et de traitement de données.
+
+\paragraph{Cloud computing :}
+Le cloud computing ou informatique en nuage est une infrastructure dans laquelle la puissance de calcul et le stockage sont gérés par des serveurs distants auxquels les usagers se connectent via une liaison Internet sécurisée. L'ordinateur de bureau ou portable, le téléphone mobile, la tablette tactile et autres objets connectés deviennent des points d'accès pour exécuter des applications ou consulter des données qui sont hébergées sur les serveurs.
+
+De cette façon, l'entreprise peut recruter des services comme le stockage virtuel des données, pour les logiciels de gestion comme un ERP ou de sécurité du cloud, entre autres.
+\begin{itemize}
+    \item IaaS (infrastructure as a service) : C'est le premier service lancé par AWS qui donne à ses clients la possibilité d'utiliser des bases de données. Ainsi, au lieu d'acheter du matériel et de créer une salle de serveurs ou un centre de données, une PME pourrait louer des ordinateurs, du stockage et un réseau auprès d'un fournisseur de services en ligne.
+    \item PaaS (Plateforme as a service) : C'est ainsi que Microsoft et d'autres ont réalisé que les développeurs avaient besoin non seulement d'une infrastructure, mais aussi d'un accès à des langages de développement de logiciels, à des bibliothèques et à des micro-services afin de créer des applications. Google fournit également le PaaS pour soutenir ses nombreuses applications domestiques.
+    \item SaaS (Software as a service) : Le précurseur du cloud sous la forme d'applications web, comme Salesforce.com, lancé en 1999. Le SaaS est une nouvelle façon d'accéder à un logiciel. Au lieu d'accéder à un serveur privé local hébergeant une copie de l'application, les utilisateurs utilisaient un navigateur web pour accéder à une application partagée basée sur un serveur web. Comme le cas des ERP qu'ils sont devenus l'application généralisée de SaaS dans l'industrie.
+
+\end{itemize}
+\newpage
+\paragraph{Puces d'accélération des réseaux de neurones (NPU) :}
+
+Un Accélérateur d'IA pour accélérateur d'intelligence artificielle (ou NPU, anglais : Neural Processing Unit) est une catégorie de microprocesseur ou de systèmes de calculs conçu pour accélérer un réseau de neurones artificiels, accélérer des algorithmes de vision industrielle et d'apprentissage automatique pour la robotique, l'internet des objets et autres tâches de calculs-intensifs ou de contrôle de capteurs. Il s'agit souvent de conceptions multicœurs et se concentrant généralement sur l'arithmétique de faible-précision, des nouvelles architectures de flux de données ou de la capacité de calcul en mémoire.
+
+\paragraph{La réalité augmentée (AR) :}
+
+Est une version améliorée du monde physique réel qui est obtenue grâce à l'utilisation d'éléments visuels numériques, de sons ou d'autres stimuli sensoriels délivrés via la technologie. C'est une tendance croissante parmi les entreprises impliquées dans l'informatique mobile et les applications d'entreprise en particulier.
+
+Au milieu de l'essor de la collecte et de l'analyse de données, l'un des principaux objectifs de la réalité augmentée est de mettre en évidence des caractéristiques spécifiques du monde physique, d'améliorer la compréhension de ces caractéristiques et d'en tirer des informations intelligentes et accessibles pouvant être appliquées à des applications du monde réel.
+
+Ces mégadonnées peuvent contribuer à éclairer la prise de décision des entreprises et à mieux comprendre les habitudes de consommation des consommateurs en amont, comme elles peuvent jouer un rôle important en aval dans le cas des activités de marketing. En interne, la réalité augmentée fournit de nombreuses applications qui aident à l'industrialisation des produits tels que les simulateurs de systèmes de production.
+
+\paragraph{Blockchain :}
+
+La blockchain constitue une base de données distribuée sur un réseau de blocs, non plus contenus dans un seul épicentre. Ce réseau est souvent assimilé à un registre dans lequel sont enregistrées toutes les données ou transactions échangées/passées au sein de l'entreprise et de son environnement externe.
+
+La blockchain est aujourd'hui surtout utilisée pour les transactions en monnaie virtuelle et n'est que rarement employée dans le secteur industriel. Il est logique de la voir appliquée dans le monde entièrement numérique d'aujourd'hui, où les transactions monétaires nécessitent une technologie fiable. Les experts de la transformation numérique, quant à eux, ont découvert des utilisations de la blockchain qui pourraient profiter au secteur informatique.
+
+L'utilisation de "smart contracts" est envisageable. Il s'agit d'un type de contrat numérique qui se manifeste par des codes inscrits dans une blockchain, permettant le transfert automatisé d'actifs d'une entité à une autre (selon des règles de gestion prédéfinies). Ces smart contracts, en complément d'un ERP classique, permettent d'automatiser le processus de production (par exemple, commande sécurisée de matières premières automatiquement lorsque les stocks sont bas).
+
+\newpage
+\subsection{Prérequis de l'industrie 4.0}
+Dans la littérature, plusieurs auteurs abordent les outils technologiques qui permettront la transformation vers l'industrie 4.0, tels que le Big Data ou l'Internet des objets. Cependant, peu d'auteurs se concentrent sur les prérequis à mettre en place pour réussir cette transformation numérique. Dans ce contexte, la littérature révèle deux écoles de pensée ; il y a l'approche technologique et l'approche des pratiques commerciales \cite{genestPrerequisitesImplementationIndustry2020}. 
+
+Selon l'approche technologique, Pacchini expose les outils technologiques qui représentent l'industrie 4.0. Suite à ses recherches, l'auteur établit qu'il existe huit technologies le plus souvent associées à l'industrie 4.0 : L'Internet des objets, le Big Data, le Cloud computing, les Systèmes Cyber Physique, les robots collaboratifs, la fabrication additive, la réalité augmentée et l'intelligence artificielle. Afin de créer un modèle permettant d'évaluer le niveau de préparation des entreprises, l'auteur détermine que chaque technologie doit répondre à six pré requis préalables ; ces conditions doivent être remplies pour garantir la réussite de la mise en œuvre de la technologie. 
+
+Pour chaque prérequis, une échelle à quatre niveaux est présentée pour établir le niveau de réalisation du prérequis. Par exemple, pour le niveau 0 : le pré requis n'est pas présent dans l'entreprise. Les scores associés aux pré requis permettent d'établir un résultat final sur le niveau de préparation numérique de l'entreprise, qu'il soit initial, primaire, intermédiaire, avancé ou prêt. Sur la base de ce résultat, l'entreprise peut s'orienter dans les prochaines étapes à franchir pour ensuite améliorer sa préparation numérique. Le tableau ci-dessous présente la liste de ces prérequis :
+
+\newpage
+%tablea%
+tableau 
+
+\newpage
+%tablea%
+tableau 
+\newpage
+D'autre part, plusieurs articles se concentrent davantage sur les actions à entreprendre et les pratiques commerciales à mettre en place avant même de penser à l'introduction réelle des technologies numériques. Selon Ranch, les conditions préalables à l'industrie 4.0 peuvent être représentées par 27 grands groupes : agilité, automatisation, connectivité, culture, conception pour la fabrication, numérisation, facilité d'utilisation, mise en œuvre, inspection, Lean, apprentissage automatique, personnalisation de masse, réseaux, personnes, planification et contrôle de la production, maintenance préventive et prédictive, contrôle à distance, gestion des ressources, sécurité, durabilité, suivi et traçage, transport, mise à niveau et réalité virtuelle. 
+
+Chacun de ces groupes représente une liste d'actions nécessaires pour atteindre la préparation numérique.  Le total des exigences présentées dans ce document est de 65 actions. Par exemple, le groupe sur la production allégée comporte trois actions : l'entreprise doit réduire les activités sans valeur ajoutée dans la production et la logistique, produire à la demande et livrés juste à temps, et individualiser les produits le plus tard possible dans la chaîne de valeur.  Ces données ont été compilées à partir de consultations de PME lors d'ateliers en Europe, en Asie et aux États-Unis. À l'issue des ateliers, cinq conditions préalables ont été identifiées par les PME comme étant les plus importantes pour la transformation numérique. Le niveau d'importance des conditions a été associé à l'intérêt des PME participant aux ateliers.  Les cinq conditions préalables sont les suivantes : fabrication agile et personnalisation de masse, intégration de données en temps réel, numérisation et connectivité, mise en œuvre de technologies de fabrication avancées et d'automatisation, intégration de technologies faciles à utiliser avec un faible investissement et formation des employés à l'analyse des données intelligentes et à l'apprentissage automatique.
+
+Toutes ces conditions préalables permettent aux PME de couvrir un ensemble de facteurs leur permettant d'être mieux préparées à la transformation vers l'industrie 4.0. Malgré le fait que les PME soient connues pour être flexibles et réactives aux besoins de leurs clients, il est essentiel pour les PME de compenser leur manque d'agilité et de connaissances en matière de fabrication, en améliorant leur expertise technologique, pour ensuite assurer le succès de la transformation.
+
+\subsection{Contraintes à l'application de l'industrie 4.0
+}
+Si nous prenons en compte les contraintes des perceptions théoriques de base de l'industrie 4.0. Comme présenté précédemment, les principaux concepts autour de ce sujet sont les systèmes cyber-physiques (CPS), l'Internet des objets (IoT), et l'intelligence artificielle (AI). Par conséquent, nous formalisons les contraintes en combinant trois sources principales : Les principales contraintes des CPS, les principales exigences de l'IoT et les principes de l'intelligence artificielle.
+
+En premier lieu, nous évaluons les systèmes cyber-physiques. Imposent que ces systèmes doivent rester entièrement opérationnels pendant le temps d'exécution de la tâche. Cette contrainte crée un besoin de protocoles de sécurité logicielle pour respecter les exigences de temps réel soft et hard. En outre, cela exige la robustesse et la fiabilité du matériel, qui est une contrainte de base des systèmes intégrés. Ces contraintes représentent un aspect de fiabilité dans les données produites, qui dépendent du matériel et du logiciel. 
+
+Nous analysons également les principales contraintes de l'Internet des objets. L'objectif de l'Internet des objets est l'omniprésence de dispositifs décentralisés basés sur un réseau. Comme l'information est la valeur la plus importante, la capacité de communication du réseau est la principale contrainte du développement des applications de l'IoT. Nous affirmons que les réseaux de capteurs sans fil constituent la principale base théorique des applications de l'IoT. Ces applications nous apprennent que ces contraintes de réseau affectent la fiabilité des données.
+
+Cependant, si l'on parle d'intelligence artificielle et de traitement des données, la qualité de ces données et l'industrialisation de leur traitement doivent également être mieux maîtrisées. Enfin, il n'est pas facile de mettre en place des processus d'intelligence artificielle sur un site industriel si l'on ne s'assure pas la qualité des données et de la précision des algorithmes de traitement.
+
+Par conséquent, nous présentons trois contraintes les plus importantes dans la conception des applications de l'industrie 4.0 :
+
+\begin{itemize}
+    \item \textbf{La fiabilité du logiciel et du matériel :} En tant que CPS, l'application doit présenter des éléments matériels et logiciels fiables pour fournir l'environnement nécessaire au développement de la proposition.
+    \item \textbf{Mise en réseau et communication :} En tant qu'application IoT, les dispositifs doivent fournir des services avec des contraintes de qualité minimales pour permettre des applications pleinement opérationnelles dans le contexte de l'industrie 4.0 avec une fiabilité des données.
+    \item \textbf{La précision des algorithmes :} Il faut assurer la précision d’algorithmes utilisés pour le calcul et le traitement de ces données.
+
+ 
+\end{itemize}
+
+\section{La qualité 4.0}
+La qualité est largement mise en œuvre par les entreprises et constitue un concept important dans les processus industriels, car elle représente un avantage concurrentiel. Aujourd'hui, il est presque obligatoire de suivre des normes de qualité pour mettre un produit sur le marché. Cependant, face aux nouveaux paradigmes de production, comme l'industrie 4.0, des questions se posent sur la manière dont les processus de gestion de la qualité pourraient bénéficier et s'adapter à l'ère des technologies numériques. Pour ce faire, dans cette section, nous commencerons par définir le concept de qualité et de systèmes de contrôle de la qualité de manière générale, puis nous ferons le lien entre les pratiques de qualité et les technologies de l'industrie 4.0 en introduisant la notion de qualité 4.0 qui donnera naissance au concept de systèmes intelligents de contrôle de la qualité.
+
+\subsection{Définition de la qualité}
+La qualité est un terme beaucoup plus compliqué qu'il n'y paraît.  Les définitions des dictionnaires sont généralement insuffisantes pour aider un professionnel de la qualité à comprendre le concept.  Il semble que chaque expert en qualité définisse la qualité d'une manière quelque peu différente. Parmi eux,ils ont défini la qualité par des normes internationales comme l’ISO 9001.
+
+L’organisation internationale de normalisation (ISO) [13], elle-même, présente une définition sur la qualité qui dit : « c’est l’ensemble des propriétés et caractéristiques d’un produit, processus ou service qui lui confèrent son aptitude à satisfaire les besoins exprimés ou implicites ».
+
+Pour James TEBOUL, « c’est d’abord la conformité aux spécifications. C’est aussi la réponse ajustée à l’utilisation recherchée, au moment de l’achat et à long terme". Dans le cadre de ce mémoire nous allons prendre cette définition comme définition principale car elle s'intéresse à la conformité du produit.[12]
+
+
+
+
+
+
